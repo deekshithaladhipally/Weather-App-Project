@@ -1,0 +1,1 @@
+The Weather App allows users to check real-time weather information for any location. It provides detailed data like current weather conditions, temperature, humidity, and forecasts. Users can search for weather updates by city name 
